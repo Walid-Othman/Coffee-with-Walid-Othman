@@ -944,3 +944,7 @@ a {
             margin-top: -43%;
         }
     } 
+
+html, body {
+  overflow-x: hidden;
+}
